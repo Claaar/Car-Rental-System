@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "ALL",
+    "Projects": [
+      {
+        "Path": "NiceOneCarRental\\NiceOneCarRental.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CarRentalServices\\CarRentalServices.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
